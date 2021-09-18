@@ -1,0 +1,10 @@
+{
+  "name": "MathSoftware",
+  "version": "0.0.1",
+  "description": "A website for smart kids to get more challenge without repeating questions.",
+  "main": "index.js",
+  "repository": "https://github.com/EiseZ/mathsoftware.git",
+  "author": "Eise Zimmerman",
+  "license": "GPL-3.0-or-later",
+  "private": false
+}
